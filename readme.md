@@ -5,4 +5,4 @@ This package implements search of HP devices on the network using SRVLOC protoco
 
 
 TODO:
-Handle sever devices on the network
+- Handle several devices on the network
